@@ -114,3 +114,7 @@ html {
     right: 10px;
     left: auto;
 }
+#XF {
+    display: block;
+    margin: 0 auto;
+}
